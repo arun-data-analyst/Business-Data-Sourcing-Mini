@@ -5,11 +5,11 @@ This mini‑project demonstrates how to fetch real‑time weather data from the 
 ## 🌧️ Features
 
 - Fetch current weather for a list of cities via the OpenWeatherMap REST API.
-- Handle **rate limits** and API errors gracefully【275505492506187†L6-L9】.
+- Handle **rate limits** and API errors gracefully.
 - Manage API keys securely using a `.env` file (do **not** hard‑code keys in your code).
-- Produce a **line chart** of temperature by city and a **bar chart** of humidity【275505492506187†L10-L11】.
+- Produce a **line chart** of temperature by city and a **bar chart** of humidity.
 
-## 📺 Tools Used
+## 🧮‍♀️ Tools Used
 
 - Python & Jupyter Notebook
 - `requests` for HTTP requests
@@ -17,7 +17,7 @@ This mini‑project demonstrates how to fetch real‑time weather data from the 
 - `matplotlib` for visualisation
 - `python-dotenv` for environment variables
 
-## 🛠 Setup Instructions
+## 💀 Setup Instructions
 
 1. Clone the repository:
 
@@ -51,7 +51,7 @@ The project generates two simple charts saved in the repository:
 
 You can view them directly in this repo or open them after running the code.
 
-## 👌 License & Notes
+## 📄 License & Notes
 
 This project does not include an API key; you must supply your own.  Consider signing up for a free account at [OpenWeatherMap](https://openweathermap.org/).  Add a license file (MIT or similar) if you intend others to reuse or modify this code.
 
